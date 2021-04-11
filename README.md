@@ -7,8 +7,10 @@ Using Wordpress and MySQL MariaDB.
 ## Screenshots
 
 ![Screenshot1](Screenshot1.png?raw=true "Landing page")
+***
 ![Screenshot2](Screenshot2.png?raw=true "Server")
-![Screenshot2](Screenshot2.png?raw=true "Contact")
+***
+![Screenshot2](Screenshot3.png?raw=true "Contact")
 
 ## Additional Features
 - Plex Media Server
